@@ -1,0 +1,391 @@
+{
+  "0": [
+    {
+      "title": "Coração Sertanejo com Daniel dos Santos",
+      "start": "05:00",
+      "end": "07:00"
+    },
+    {
+      "title": "Agenda do Trabalhador Rural (Programa Independente)",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    {
+      "title": "Programa evangélico com Chico Benevides (Programa Independente)",
+      "start": "08:00",
+      "end": "09:00"
+    },
+    {
+      "title": "Programação automática",
+      "start": "09:00",
+      "end": "11:00"
+    },
+    {
+      "title": "Caminhando ao lado das comunidades rurais (Programa Independente",
+      "start": "11:00",
+      "end": "13:00"
+    },
+    {
+      "title": "Programação automática",
+      "start": "13:00",
+      "end": "19:00"
+    },
+    {
+      "title": "Missa da Igreja Católica (Programa Independente)",
+      "start": "19:00",
+      "end": "21:00"
+    },
+    {
+      "title": "Programação Musical",
+      "start": "21:00",
+      "end": "05:00"
+    }
+  ],
+  "1": [
+    {
+      "title": "Manhã Sertaneja com Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã com Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre com Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias com Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso com Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega com Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania com Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo com JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo Com Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "2": [
+    {
+      "title": "Manhã Sertaneja com Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã com Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre com Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias com Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso com Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega com Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania com Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo com JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo Com Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "3": [
+    {
+      "title": "Manhã Sertaneja com Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã com Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre com Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias com Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso com Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega com Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania com Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo com JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo Com Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "4": [
+    {
+      "title": "Manhã Sertaneja com Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã com Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre com Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias com Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso com Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega com Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania com Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo com JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo Com Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "5": [
+    {
+      "title": "Manhã Sertaneja com Naldo Teixeira",
+      "start": "05:00",
+      "end": "06:45"
+    },
+    {
+      "title": "Programa Independente",
+      "start": "06:45",
+      "end": "07:15"
+    },
+    {
+      "title": "Jornal da Manhã com Clácio Rodrigues e Marcos Paulo",
+      "start": "07:15",
+      "end": "09:00"
+    },
+    {
+      "title": "Zona Livre com Roger Bahia",
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Giro de Notícias com Vilson Nunes",
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "title": "Estação do Sucesso com Jéu Costa e Maysa Santos",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "title": "Sintonia Brega com Sandro Ribeiro",
+      "start": "16:00",
+      "end": "17:30"
+    },
+    {
+      "title": "Rádio Mania com Naldo Teixeira",
+      "start": "17:30",
+      "end": "19:00"
+    },
+    {
+      "title": "Voz do Brasil",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "title": "No Seu Ritmo com JB",
+      "start": "20:00",
+      "end": "22:00"
+    },
+    {
+      "title": "Patrulha do Tempo Com Gino Mendes",
+      "start": "22:00",
+      "end": "00:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "start": "00:00",
+      "end": "05:00"
+    }
+  ],
+  "6": [
+    {
+      "title": "Coração Sertanejo com Daniel dos Santos",
+      "start": "05:00",
+      "end": "07:00"
+    },
+    {
+      "title": "Momento de meditação com Pastor Alberto (Programa Independente)",
+      "start": "07:00",
+      "end": "08:00"
+    },
+    {
+      "title": "Visão Mix com JB",
+      "start": "08:00",
+      "end": "12:00"
+    },
+    {
+      "title": "Programação automática",
+      "start": "12:00",
+      "end": "17:00"
+    },
+    {
+      "title": "Programa Espírita (Programa Independente)",
+      "start": "17:00",
+      "end": "18:00"
+    },
+    {
+      "title": "Vaquejada Show com Nil Locutor",
+      "start": "18:00",
+      "end": "21:00"
+    },
+    {
+      "title": "Programação Musical Automática",
+      "start": "21:00",
+      "end": "05:00"
+    }
+  ]
+}
